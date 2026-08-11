@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>المنتجات | SIDALI XZS</title>
+
+    <meta name="description"
+          content="جميع المنتجات الرقمية التعليمية من SIDALI XZS">
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header class="site-header">
+
+    <div class="header-inner">
+
+        <a href="index.html" class="logo">
+            <span class="logo-mark">⚡</span>
+            <span>SIDALI <b>XZS</b></span>
+        </a>
+
+        <nav class="navigation">
+            <a href="index.html">الرئيسية</a>
+            <a href="products.html">المنتجات</a>
+            <a href="index.html#about">عن الموقع</a>
+            <a href="https://t.me/sidali_ka_x7"
+               target="_blank"
+               rel="noopener">
+                تواصل
+            </a>
+        </nav>
+
+    </div>
+
+</header>
+
+
+<main>
+
+<section class="products-page">
+
+    <div class="section-heading">
+
+        <span class="section-tag">
+            // DIGITAL_STORE
+        </span>
+
+        <h1>
+            منتجات SIDALI XZS
+        </h1>
+
+        <p>
+            كتب ومنتجات رقمية تعليمية تساعدك على تطوير مهاراتك.
+        </p>
+
+    </div>
+
+
+    <div class="products-grid">
+
+
+        <!-- PRODUCT 01 -->
+
+        <article class="store-card">
+
+            <div class="store-cover">
+
+                <span>SIDALI XZS</span>
+
+                <strong>&gt;_</strong>
+
+                <h2>TERMUX</h2>
+
+                <p>
+                    للمبتدئين
+                </p>
+
+            </div>
+
+
+            <div class="store-content">
+
+                <span class="product-label">
+                    📘 كتاب PDF
+                </span>
+
+                <h2>
+                    أساسيات Termux للمبتدئين
+                </h2>
+
+                <p>
+                    دليل عربي مبسط يشرح أساسيات Termux
+                    والأوامر والملفات وPython وGit.
+                </p>
+
+                <div class="store-bottom">
+
+                    <strong>
+                        500 دج
+                    </strong>
+
+                    <a href="https://t.me/sidali_ka_x7"
+                       target="_blank"
+                       rel="noopener"
+                       class="store-button">
+
+                        شراء
+
+                    </a>
+
+                </div>
+
+            </div>
+
+        </article>
+
+
+        <!-- PRODUCT 02 -->
+
+        <article class="store-card coming-soon">
+
+            <div class="coming-icon">
+                +
+            </div>
+
+            <div class="store-content">
+
+                <span class="product-label">
+                    🚀 قريبًا
+                </span>
+
+                <h2>
+                    منتج رقمي جديد
+                </h2>
+
+                <p>
+                    نعمل حاليًا على منتج جديد
+                    ومفيد للمبتدئين.
+                </p>
+
+                <div class="store-bottom">
+
+                    <span>
+                        قريبًا
+                    </span>
+
+                </div>
+
+            </div>
+
+        </article>
+
+
+        <!-- PRODUCT 03 -->
+
+        <article class="store-card coming-soon">
+
+            <div class="coming-icon">
+                +
+            </div>
+
+            <div class="store-content">
+
+                <span class="product-label">
+                    🚀 قريبًا
+                </span>
+
+                <h2>
+                    دورة رقمية
+                </h2>
+
+                <p>
+                    محتوى تعليمي جديد سيتم إطلاقه
+                    قريبًا.
+                </p>
+
+                <div class="store-bottom">
+
+                    <span>
+                        قريبًا
+                    </span>
+
+                </div>
+
+            </div>
+
+        </article>
+
+    </div>
+
+</section>
+
+</main>
+
+
+<footer>
+
+    <div class="footer-logo">
+        ⚡ SIDALI XZS
+    </div>
+
+    <p>
+        منتجات رقمية تعليمية
+    </p>
+
+    <small>
+        © 2026 SIDALI XZS — جميع الحقوق محفوظة
+    </small>
+
+</footer>
+
+</body>
+</html>
